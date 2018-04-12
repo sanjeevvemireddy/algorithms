@@ -1,4 +1,4 @@
-package algorithms;
+package com.examples.algos;
 
 /**
  * Bubble Sort - Compare the adjacent elements and 

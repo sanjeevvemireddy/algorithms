@@ -1,6 +1,6 @@
-package algorithms;
+package com.examples.algos;
 
-import static algorithms.HeightOfBST.insert;
+import static com.examples.algos.HeightOfBST.insert;
 import java.util.Scanner;
 
 /**

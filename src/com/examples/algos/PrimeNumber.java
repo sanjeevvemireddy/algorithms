@@ -1,4 +1,4 @@
-package algorithms;
+package com.examples.algos;
 
 /**
  * Prime Number - A number which is divisible by itself and 1.
